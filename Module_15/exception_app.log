@@ -1,0 +1,15 @@
+2025-03-11 09:05:22,225 - exception_logger - ERROR - An exception occurred
+Traceback (most recent call last):
+  File "C:\Users\lalit\AppData\Local\Temp/ipykernel_15528/3259282278.py", line 12, in log_exception
+    1 / 0
+ZeroDivisionError: division by zero
+2025-03-11 09:26:32,770 - exception_logger - ERROR - An exception occurred
+Traceback (most recent call last):
+  File "C:\Users\lalit\AppData\Local\Temp/ipykernel_17020/3259282278.py", line 12, in log_exception
+    1 / 0
+ZeroDivisionError: division by zero
+2025-03-11 09:30:01,470 - exception_logger - ERROR - An exception occurred
+Traceback (most recent call last):
+  File "C:\Users\lalit\AppData\Local\Temp/ipykernel_3060/3259282278.py", line 12, in log_exception
+    1 / 0
+ZeroDivisionError: division by zero

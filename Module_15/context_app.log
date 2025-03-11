@@ -1,0 +1,15 @@
+2025-03-11 09:05:22,276 - context_logger - DEBUG - This is a debug message - test_func - 12
+2025-03-11 09:05:22,282 - context_logger - INFO - This is an info message - test_func - 13
+2025-03-11 09:05:22,282 - context_logger - WARNING - This is a warning message - test_func - 14
+2025-03-11 09:05:22,282 - context_logger - ERROR - This is an error message - test_func - 15
+2025-03-11 09:05:22,282 - context_logger - CRITICAL - This is a critical message - test_func - 16
+2025-03-11 09:26:32,804 - context_logger - DEBUG - This is a debug message - test_func - 12
+2025-03-11 09:26:32,804 - context_logger - INFO - This is an info message - test_func - 13
+2025-03-11 09:26:32,804 - context_logger - WARNING - This is a warning message - test_func - 14
+2025-03-11 09:26:32,804 - context_logger - ERROR - This is an error message - test_func - 15
+2025-03-11 09:26:32,804 - context_logger - CRITICAL - This is a critical message - test_func - 16
+2025-03-11 09:30:01,525 - context_logger - DEBUG - This is a debug message - test_func - 12
+2025-03-11 09:30:01,525 - context_logger - INFO - This is an info message - test_func - 13
+2025-03-11 09:30:01,525 - context_logger - WARNING - This is a warning message - test_func - 14
+2025-03-11 09:30:01,525 - context_logger - ERROR - This is an error message - test_func - 15
+2025-03-11 09:30:01,525 - context_logger - CRITICAL - This is a critical message - test_func - 16

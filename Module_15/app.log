@@ -1,0 +1,435 @@
+DEBUG:root:This is a debug message
+INFO:root:This is an info message
+WARNING:root:This is a warning message
+ERROR:root:This is an error message
+CRITICAL:root:This is a critical message
+2025-03-11 09:05:21,634 - my_logger - DEBUG - This is a debug messsage
+DEBUG:my_logger:This is a debug messsage
+2025-03-11 09:05:21,811 - my_logger - INFO - This is a info message
+INFO:my_logger:This is a info message
+2025-03-11 09:05:21,832 - my_logger - WARNING - This is a warning message
+WARNING:my_logger:This is a warning message
+2025-03-11 09:05:21,849 - my_logger - ERROR - This is a error message
+ERROR:my_logger:This is a error message
+2025-03-11 09:05:21,867 - my_logger - CRITICAL - This is a critical message
+CRITICAL:my_logger:This is a critical message
+2025-03-11 09:05:21,925 - my_logger - DEBUG - This is a debug message
+2025-03-11 09:05:21,925 - DEBUG - This is a debug message
+DEBUG:my_logger:This is a debug message
+2025-03-11 09:05:21,943 - my_logger - INFO - This is an info message
+2025-03-11 09:05:21,943 - INFO - This is an info message
+INFO:my_logger:This is an info message
+2025-03-11 09:05:21,958 - my_logger - WARNING - This is a warning message
+2025-03-11 09:05:21,958 - WARNING - This is a warning message
+WARNING:my_logger:This is a warning message
+2025-03-11 09:05:21,974 - my_logger - CRITICAL - Thid is critical message
+2025-03-11 09:05:21,974 - CRITICAL - Thid is critical message
+CRITICAL:my_logger:Thid is critical message
+2025-03-11 09:05:22,000 - my_logger - ERROR - This is a error messgae
+2025-03-11 09:05:22,000 - ERROR - This is a error messgae
+ERROR:my_logger:This is a error messgae
+DEBUG:rotating_handler:This is a debug message 0
+DEBUG:rotating_handler:This is a debug message 1
+DEBUG:rotating_handler:This is a debug message 2
+DEBUG:rotating_handler:This is a debug message 3
+DEBUG:rotating_handler:This is a debug message 4
+DEBUG:rotating_handler:This is a debug message 5
+DEBUG:rotating_handler:This is a debug message 6
+DEBUG:rotating_handler:This is a debug message 7
+DEBUG:rotating_handler:This is a debug message 8
+DEBUG:rotating_handler:This is a debug message 9
+DEBUG:rotating_handler:This is a debug message 10
+DEBUG:rotating_handler:This is a debug message 11
+DEBUG:rotating_handler:This is a debug message 12
+DEBUG:rotating_handler:This is a debug message 13
+DEBUG:rotating_handler:This is a debug message 14
+DEBUG:rotating_handler:This is a debug message 15
+DEBUG:rotating_handler:This is a debug message 16
+DEBUG:rotating_handler:This is a debug message 17
+DEBUG:rotating_handler:This is a debug message 18
+DEBUG:rotating_handler:This is a debug message 19
+DEBUG:rotating_handler:This is a debug message 20
+DEBUG:rotating_handler:This is a debug message 21
+DEBUG:rotating_handler:This is a debug message 22
+DEBUG:rotating_handler:This is a debug message 23
+DEBUG:rotating_handler:This is a debug message 24
+DEBUG:rotating_handler:This is a debug message 25
+DEBUG:rotating_handler:This is a debug message 26
+DEBUG:rotating_handler:This is a debug message 27
+DEBUG:rotating_handler:This is a debug message 28
+DEBUG:rotating_handler:This is a debug message 29
+DEBUG:rotating_handler:This is a debug message 30
+DEBUG:rotating_handler:This is a debug message 31
+DEBUG:rotating_handler:This is a debug message 32
+DEBUG:rotating_handler:This is a debug message 33
+DEBUG:rotating_handler:This is a debug message 34
+DEBUG:rotating_handler:This is a debug message 35
+DEBUG:rotating_handler:This is a debug message 36
+DEBUG:rotating_handler:This is a debug message 37
+DEBUG:rotating_handler:This is a debug message 38
+DEBUG:rotating_handler:This is a debug message 39
+DEBUG:rotating_handler:This is a debug message 40
+DEBUG:rotating_handler:This is a debug message 41
+DEBUG:rotating_handler:This is a debug message 42
+DEBUG:rotating_handler:This is a debug message 43
+DEBUG:rotating_handler:This is a debug message 44
+DEBUG:rotating_handler:This is a debug message 45
+DEBUG:rotating_handler:This is a debug message 46
+DEBUG:rotating_handler:This is a debug message 47
+DEBUG:rotating_handler:This is a debug message 48
+DEBUG:rotating_handler:This is a debug message 49
+DEBUG:rotating_handler:This is a debug message 50
+DEBUG:rotating_handler:This is a debug message 51
+DEBUG:rotating_handler:This is a debug message 52
+DEBUG:rotating_handler:This is a debug message 53
+DEBUG:rotating_handler:This is a debug message 54
+DEBUG:rotating_handler:This is a debug message 55
+DEBUG:rotating_handler:This is a debug message 56
+DEBUG:rotating_handler:This is a debug message 57
+DEBUG:rotating_handler:This is a debug message 58
+DEBUG:rotating_handler:This is a debug message 59
+DEBUG:rotating_handler:This is a debug message 60
+DEBUG:rotating_handler:This is a debug message 61
+DEBUG:rotating_handler:This is a debug message 62
+DEBUG:rotating_handler:This is a debug message 63
+DEBUG:rotating_handler:This is a debug message 64
+DEBUG:rotating_handler:This is a debug message 65
+DEBUG:rotating_handler:This is a debug message 66
+DEBUG:rotating_handler:This is a debug message 67
+DEBUG:rotating_handler:This is a debug message 68
+DEBUG:rotating_handler:This is a debug message 69
+DEBUG:rotating_handler:This is a debug message 70
+DEBUG:rotating_handler:This is a debug message 71
+DEBUG:rotating_handler:This is a debug message 72
+DEBUG:rotating_handler:This is a debug message 73
+DEBUG:rotating_handler:This is a debug message 74
+DEBUG:rotating_handler:This is a debug message 75
+DEBUG:rotating_handler:This is a debug message 76
+DEBUG:rotating_handler:This is a debug message 77
+DEBUG:rotating_handler:This is a debug message 78
+DEBUG:rotating_handler:This is a debug message 79
+DEBUG:rotating_handler:This is a debug message 80
+DEBUG:rotating_handler:This is a debug message 81
+DEBUG:rotating_handler:This is a debug message 82
+DEBUG:rotating_handler:This is a debug message 83
+DEBUG:rotating_handler:This is a debug message 84
+DEBUG:rotating_handler:This is a debug message 85
+DEBUG:rotating_handler:This is a debug message 86
+DEBUG:rotating_handler:This is a debug message 87
+DEBUG:rotating_handler:This is a debug message 88
+DEBUG:rotating_handler:This is a debug message 89
+DEBUG:rotating_handler:This is a debug message 90
+DEBUG:rotating_handler:This is a debug message 91
+DEBUG:rotating_handler:This is a debug message 92
+DEBUG:rotating_handler:This is a debug message 93
+DEBUG:rotating_handler:This is a debug message 94
+DEBUG:rotating_handler:This is a debug message 95
+DEBUG:rotating_handler:This is a debug message 96
+DEBUG:rotating_handler:This is a debug message 97
+DEBUG:rotating_handler:This is a debug message 98
+DEBUG:rotating_handler:This is a debug message 99
+ERROR:exception_logger:An exception occurred
+Traceback (most recent call last):
+  File "C:\Users\lalit\AppData\Local\Temp/ipykernel_15528/3259282278.py", line 12, in log_exception
+    1 / 0
+ZeroDivisionError: division by zero
+DEBUG:context_logger:This is a debug message
+INFO:context_logger:This is an info message
+WARNING:context_logger:This is a warning message
+ERROR:context_logger:This is an error message
+CRITICAL:context_logger:This is a critical message
+DEBUG:additional_context_logger:This is a debug message
+INFO:additional_context_logger:This is an info message
+WARNING:additional_context_logger:This is a warning message
+ERROR:additional_context_logger:This is an error message
+CRITICAL:additional_context_logger:This is a critical message
+DEBUG:root:This is a debug message
+INFO:root:This is an info message
+WARNING:root:This is a warning message
+ERROR:root:This is an error message
+CRITICAL:root:This is a critical message
+2025-03-11 09:26:32,287 - my_logger - DEBUG - This is a debug messsage
+DEBUG:my_logger:This is a debug messsage
+2025-03-11 09:26:32,433 - my_logger - INFO - This is a info message
+INFO:my_logger:This is a info message
+2025-03-11 09:26:32,445 - my_logger - WARNING - This is a warning message
+WARNING:my_logger:This is a warning message
+2025-03-11 09:26:32,479 - my_logger - ERROR - This is a error message
+ERROR:my_logger:This is a error message
+2025-03-11 09:26:32,488 - my_logger - CRITICAL - This is a critical message
+CRITICAL:my_logger:This is a critical message
+2025-03-11 09:26:32,522 - my_logger - DEBUG - This is a debug message
+2025-03-11 09:26:32,522 - DEBUG - This is a debug message
+DEBUG:my_logger:This is a debug message
+2025-03-11 09:26:32,543 - my_logger - INFO - This is an info message
+2025-03-11 09:26:32,543 - INFO - This is an info message
+INFO:my_logger:This is an info message
+2025-03-11 09:26:32,552 - my_logger - WARNING - This is a warning message
+2025-03-11 09:26:32,552 - WARNING - This is a warning message
+WARNING:my_logger:This is a warning message
+2025-03-11 09:26:32,565 - my_logger - CRITICAL - Thid is critical message
+2025-03-11 09:26:32,565 - CRITICAL - Thid is critical message
+CRITICAL:my_logger:Thid is critical message
+2025-03-11 09:26:32,579 - my_logger - ERROR - This is a error messgae
+2025-03-11 09:26:32,579 - ERROR - This is a error messgae
+ERROR:my_logger:This is a error messgae
+DEBUG:rotating_handler:This is a debug message 0
+DEBUG:rotating_handler:This is a debug message 1
+DEBUG:rotating_handler:This is a debug message 2
+DEBUG:rotating_handler:This is a debug message 3
+DEBUG:rotating_handler:This is a debug message 4
+DEBUG:rotating_handler:This is a debug message 5
+DEBUG:rotating_handler:This is a debug message 6
+DEBUG:rotating_handler:This is a debug message 7
+DEBUG:rotating_handler:This is a debug message 8
+DEBUG:rotating_handler:This is a debug message 9
+DEBUG:rotating_handler:This is a debug message 10
+DEBUG:rotating_handler:This is a debug message 11
+DEBUG:rotating_handler:This is a debug message 12
+DEBUG:rotating_handler:This is a debug message 13
+DEBUG:rotating_handler:This is a debug message 14
+DEBUG:rotating_handler:This is a debug message 15
+DEBUG:rotating_handler:This is a debug message 16
+DEBUG:rotating_handler:This is a debug message 17
+DEBUG:rotating_handler:This is a debug message 18
+DEBUG:rotating_handler:This is a debug message 19
+DEBUG:rotating_handler:This is a debug message 20
+DEBUG:rotating_handler:This is a debug message 21
+DEBUG:rotating_handler:This is a debug message 22
+DEBUG:rotating_handler:This is a debug message 23
+DEBUG:rotating_handler:This is a debug message 24
+DEBUG:rotating_handler:This is a debug message 25
+DEBUG:rotating_handler:This is a debug message 26
+DEBUG:rotating_handler:This is a debug message 27
+DEBUG:rotating_handler:This is a debug message 28
+DEBUG:rotating_handler:This is a debug message 29
+DEBUG:rotating_handler:This is a debug message 30
+DEBUG:rotating_handler:This is a debug message 31
+DEBUG:rotating_handler:This is a debug message 32
+DEBUG:rotating_handler:This is a debug message 33
+DEBUG:rotating_handler:This is a debug message 34
+DEBUG:rotating_handler:This is a debug message 35
+DEBUG:rotating_handler:This is a debug message 36
+DEBUG:rotating_handler:This is a debug message 37
+DEBUG:rotating_handler:This is a debug message 38
+DEBUG:rotating_handler:This is a debug message 39
+DEBUG:rotating_handler:This is a debug message 40
+DEBUG:rotating_handler:This is a debug message 41
+DEBUG:rotating_handler:This is a debug message 42
+DEBUG:rotating_handler:This is a debug message 43
+DEBUG:rotating_handler:This is a debug message 44
+DEBUG:rotating_handler:This is a debug message 45
+DEBUG:rotating_handler:This is a debug message 46
+DEBUG:rotating_handler:This is a debug message 47
+DEBUG:rotating_handler:This is a debug message 48
+DEBUG:rotating_handler:This is a debug message 49
+DEBUG:rotating_handler:This is a debug message 50
+DEBUG:rotating_handler:This is a debug message 51
+DEBUG:rotating_handler:This is a debug message 52
+DEBUG:rotating_handler:This is a debug message 53
+DEBUG:rotating_handler:This is a debug message 54
+DEBUG:rotating_handler:This is a debug message 55
+DEBUG:rotating_handler:This is a debug message 56
+DEBUG:rotating_handler:This is a debug message 57
+DEBUG:rotating_handler:This is a debug message 58
+DEBUG:rotating_handler:This is a debug message 59
+DEBUG:rotating_handler:This is a debug message 60
+DEBUG:rotating_handler:This is a debug message 61
+DEBUG:rotating_handler:This is a debug message 62
+DEBUG:rotating_handler:This is a debug message 63
+DEBUG:rotating_handler:This is a debug message 64
+DEBUG:rotating_handler:This is a debug message 65
+DEBUG:rotating_handler:This is a debug message 66
+DEBUG:rotating_handler:This is a debug message 67
+DEBUG:rotating_handler:This is a debug message 68
+DEBUG:rotating_handler:This is a debug message 69
+DEBUG:rotating_handler:This is a debug message 70
+DEBUG:rotating_handler:This is a debug message 71
+DEBUG:rotating_handler:This is a debug message 72
+DEBUG:rotating_handler:This is a debug message 73
+DEBUG:rotating_handler:This is a debug message 74
+DEBUG:rotating_handler:This is a debug message 75
+DEBUG:rotating_handler:This is a debug message 76
+DEBUG:rotating_handler:This is a debug message 77
+DEBUG:rotating_handler:This is a debug message 78
+DEBUG:rotating_handler:This is a debug message 79
+DEBUG:rotating_handler:This is a debug message 80
+DEBUG:rotating_handler:This is a debug message 81
+DEBUG:rotating_handler:This is a debug message 82
+DEBUG:rotating_handler:This is a debug message 83
+DEBUG:rotating_handler:This is a debug message 84
+DEBUG:rotating_handler:This is a debug message 85
+DEBUG:rotating_handler:This is a debug message 86
+DEBUG:rotating_handler:This is a debug message 87
+DEBUG:rotating_handler:This is a debug message 88
+DEBUG:rotating_handler:This is a debug message 89
+DEBUG:rotating_handler:This is a debug message 90
+DEBUG:rotating_handler:This is a debug message 91
+DEBUG:rotating_handler:This is a debug message 92
+DEBUG:rotating_handler:This is a debug message 93
+DEBUG:rotating_handler:This is a debug message 94
+DEBUG:rotating_handler:This is a debug message 95
+DEBUG:rotating_handler:This is a debug message 96
+DEBUG:rotating_handler:This is a debug message 97
+DEBUG:rotating_handler:This is a debug message 98
+DEBUG:rotating_handler:This is a debug message 99
+ERROR:exception_logger:An exception occurred
+Traceback (most recent call last):
+  File "C:\Users\lalit\AppData\Local\Temp/ipykernel_17020/3259282278.py", line 12, in log_exception
+    1 / 0
+ZeroDivisionError: division by zero
+DEBUG:context_logger:This is a debug message
+INFO:context_logger:This is an info message
+WARNING:context_logger:This is a warning message
+ERROR:context_logger:This is an error message
+CRITICAL:context_logger:This is a critical message
+DEBUG:additional_context_logger:This is a debug message
+INFO:additional_context_logger:This is an info message
+WARNING:additional_context_logger:This is a warning message
+ERROR:additional_context_logger:This is an error message
+CRITICAL:additional_context_logger:This is a critical message
+DEBUG:root:This is a debug message
+INFO:root:This is an info message
+WARNING:root:This is a warning message
+ERROR:root:This is an error message
+CRITICAL:root:This is a critical message
+2025-03-11 09:30:01,110 - my_logger - DEBUG - This is a debug messsage
+DEBUG:my_logger:This is a debug messsage
+2025-03-11 09:30:01,177 - my_logger - INFO - This is a info message
+INFO:my_logger:This is a info message
+2025-03-11 09:30:01,200 - my_logger - WARNING - This is a warning message
+WARNING:my_logger:This is a warning message
+2025-03-11 09:30:01,225 - my_logger - ERROR - This is a error message
+ERROR:my_logger:This is a error message
+2025-03-11 09:30:01,246 - my_logger - CRITICAL - This is a critical message
+CRITICAL:my_logger:This is a critical message
+2025-03-11 09:30:01,300 - my_logger - DEBUG - This is a debug message
+2025-03-11 09:30:01,300 - DEBUG - This is a debug message
+DEBUG:my_logger:This is a debug message
+2025-03-11 09:30:01,309 - my_logger - INFO - This is an info message
+2025-03-11 09:30:01,309 - INFO - This is an info message
+INFO:my_logger:This is an info message
+2025-03-11 09:30:01,325 - my_logger - WARNING - This is a warning message
+2025-03-11 09:30:01,325 - WARNING - This is a warning message
+WARNING:my_logger:This is a warning message
+2025-03-11 09:30:01,338 - my_logger - CRITICAL - Thid is critical message
+2025-03-11 09:30:01,338 - CRITICAL - Thid is critical message
+CRITICAL:my_logger:Thid is critical message
+2025-03-11 09:30:01,350 - my_logger - ERROR - This is a error messgae
+2025-03-11 09:30:01,350 - ERROR - This is a error messgae
+ERROR:my_logger:This is a error messgae
+DEBUG:rotating_handler:This is a debug message 0
+DEBUG:rotating_handler:This is a debug message 1
+DEBUG:rotating_handler:This is a debug message 2
+DEBUG:rotating_handler:This is a debug message 3
+DEBUG:rotating_handler:This is a debug message 4
+DEBUG:rotating_handler:This is a debug message 5
+DEBUG:rotating_handler:This is a debug message 6
+DEBUG:rotating_handler:This is a debug message 7
+DEBUG:rotating_handler:This is a debug message 8
+DEBUG:rotating_handler:This is a debug message 9
+DEBUG:rotating_handler:This is a debug message 10
+DEBUG:rotating_handler:This is a debug message 11
+DEBUG:rotating_handler:This is a debug message 12
+DEBUG:rotating_handler:This is a debug message 13
+DEBUG:rotating_handler:This is a debug message 14
+DEBUG:rotating_handler:This is a debug message 15
+DEBUG:rotating_handler:This is a debug message 16
+DEBUG:rotating_handler:This is a debug message 17
+DEBUG:rotating_handler:This is a debug message 18
+DEBUG:rotating_handler:This is a debug message 19
+DEBUG:rotating_handler:This is a debug message 20
+DEBUG:rotating_handler:This is a debug message 21
+DEBUG:rotating_handler:This is a debug message 22
+DEBUG:rotating_handler:This is a debug message 23
+DEBUG:rotating_handler:This is a debug message 24
+DEBUG:rotating_handler:This is a debug message 25
+DEBUG:rotating_handler:This is a debug message 26
+DEBUG:rotating_handler:This is a debug message 27
+DEBUG:rotating_handler:This is a debug message 28
+DEBUG:rotating_handler:This is a debug message 29
+DEBUG:rotating_handler:This is a debug message 30
+DEBUG:rotating_handler:This is a debug message 31
+DEBUG:rotating_handler:This is a debug message 32
+DEBUG:rotating_handler:This is a debug message 33
+DEBUG:rotating_handler:This is a debug message 34
+DEBUG:rotating_handler:This is a debug message 35
+DEBUG:rotating_handler:This is a debug message 36
+DEBUG:rotating_handler:This is a debug message 37
+DEBUG:rotating_handler:This is a debug message 38
+DEBUG:rotating_handler:This is a debug message 39
+DEBUG:rotating_handler:This is a debug message 40
+DEBUG:rotating_handler:This is a debug message 41
+DEBUG:rotating_handler:This is a debug message 42
+DEBUG:rotating_handler:This is a debug message 43
+DEBUG:rotating_handler:This is a debug message 44
+DEBUG:rotating_handler:This is a debug message 45
+DEBUG:rotating_handler:This is a debug message 46
+DEBUG:rotating_handler:This is a debug message 47
+DEBUG:rotating_handler:This is a debug message 48
+DEBUG:rotating_handler:This is a debug message 49
+DEBUG:rotating_handler:This is a debug message 50
+DEBUG:rotating_handler:This is a debug message 51
+DEBUG:rotating_handler:This is a debug message 52
+DEBUG:rotating_handler:This is a debug message 53
+DEBUG:rotating_handler:This is a debug message 54
+DEBUG:rotating_handler:This is a debug message 55
+DEBUG:rotating_handler:This is a debug message 56
+DEBUG:rotating_handler:This is a debug message 57
+DEBUG:rotating_handler:This is a debug message 58
+DEBUG:rotating_handler:This is a debug message 59
+DEBUG:rotating_handler:This is a debug message 60
+DEBUG:rotating_handler:This is a debug message 61
+DEBUG:rotating_handler:This is a debug message 62
+DEBUG:rotating_handler:This is a debug message 63
+DEBUG:rotating_handler:This is a debug message 64
+DEBUG:rotating_handler:This is a debug message 65
+DEBUG:rotating_handler:This is a debug message 66
+DEBUG:rotating_handler:This is a debug message 67
+DEBUG:rotating_handler:This is a debug message 68
+DEBUG:rotating_handler:This is a debug message 69
+DEBUG:rotating_handler:This is a debug message 70
+DEBUG:rotating_handler:This is a debug message 71
+DEBUG:rotating_handler:This is a debug message 72
+DEBUG:rotating_handler:This is a debug message 73
+DEBUG:rotating_handler:This is a debug message 74
+DEBUG:rotating_handler:This is a debug message 75
+DEBUG:rotating_handler:This is a debug message 76
+DEBUG:rotating_handler:This is a debug message 77
+DEBUG:rotating_handler:This is a debug message 78
+DEBUG:rotating_handler:This is a debug message 79
+DEBUG:rotating_handler:This is a debug message 80
+DEBUG:rotating_handler:This is a debug message 81
+DEBUG:rotating_handler:This is a debug message 82
+DEBUG:rotating_handler:This is a debug message 83
+DEBUG:rotating_handler:This is a debug message 84
+DEBUG:rotating_handler:This is a debug message 85
+DEBUG:rotating_handler:This is a debug message 86
+DEBUG:rotating_handler:This is a debug message 87
+DEBUG:rotating_handler:This is a debug message 88
+DEBUG:rotating_handler:This is a debug message 89
+DEBUG:rotating_handler:This is a debug message 90
+DEBUG:rotating_handler:This is a debug message 91
+DEBUG:rotating_handler:This is a debug message 92
+DEBUG:rotating_handler:This is a debug message 93
+DEBUG:rotating_handler:This is a debug message 94
+DEBUG:rotating_handler:This is a debug message 95
+DEBUG:rotating_handler:This is a debug message 96
+DEBUG:rotating_handler:This is a debug message 97
+DEBUG:rotating_handler:This is a debug message 98
+DEBUG:rotating_handler:This is a debug message 99
+ERROR:exception_logger:An exception occurred
+Traceback (most recent call last):
+  File "C:\Users\lalit\AppData\Local\Temp/ipykernel_3060/3259282278.py", line 12, in log_exception
+    1 / 0
+ZeroDivisionError: division by zero
+DEBUG:context_logger:This is a debug message
+INFO:context_logger:This is an info message
+WARNING:context_logger:This is a warning message
+ERROR:context_logger:This is an error message
+CRITICAL:context_logger:This is a critical message
+DEBUG:additional_context_logger:This is a debug message
+INFO:additional_context_logger:This is an info message
+WARNING:additional_context_logger:This is a warning message
+ERROR:additional_context_logger:This is an error message
+CRITICAL:additional_context_logger:This is a critical message
